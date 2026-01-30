@@ -1,0 +1,61 @@
+﻿  main.cpp
+C:\Users\medul\source\repos\Project1\Project1\main.cpp(350,9): error C2360: initialization of 'frozenMemberships' is skipped by 'case' label
+      C:\Users\medul\source\repos\Project1\Project1\main.cpp(331,17):
+      see declaration of 'frozenMemberships'
+  
+C:\Users\medul\source\repos\Project1\Project1\main.cpp(350,9): error C2360: initialization of 'activeMemberships' is skipped by 'case' label
+      C:\Users\medul\source\repos\Project1\Project1\main.cpp(330,17):
+      see declaration of 'activeMemberships'
+  
+C:\Users\medul\source\repos\Project1\Project1\main.cpp(350,9): error C2360: initialization of 'clients' is skipped by 'case' label
+      C:\Users\medul\source\repos\Project1\Project1\main.cpp(329,27):
+      see declaration of 'clients'
+  
+C:\Users\medul\source\repos\Project1\Project1\main.cpp(371,9): error C2360: initialization of 'frozenMemberships' is skipped by 'case' label
+      C:\Users\medul\source\repos\Project1\Project1\main.cpp(331,17):
+      see declaration of 'frozenMemberships'
+  
+C:\Users\medul\source\repos\Project1\Project1\main.cpp(371,9): error C2360: initialization of 'activeMemberships' is skipped by 'case' label
+      C:\Users\medul\source\repos\Project1\Project1\main.cpp(330,17):
+      see declaration of 'activeMemberships'
+  
+C:\Users\medul\source\repos\Project1\Project1\main.cpp(371,9): error C2360: initialization of 'clients' is skipped by 'case' label
+      C:\Users\medul\source\repos\Project1\Project1\main.cpp(329,27):
+      see declaration of 'clients'
+  
+C:\Users\medul\source\repos\Project1\Project1\main.cpp(382,9): error C2360: initialization of 'frozenMemberships' is skipped by 'case' label
+      C:\Users\medul\source\repos\Project1\Project1\main.cpp(331,17):
+      see declaration of 'frozenMemberships'
+  
+C:\Users\medul\source\repos\Project1\Project1\main.cpp(382,9): error C2360: initialization of 'activeMemberships' is skipped by 'case' label
+      C:\Users\medul\source\repos\Project1\Project1\main.cpp(330,17):
+      see declaration of 'activeMemberships'
+  
+C:\Users\medul\source\repos\Project1\Project1\main.cpp(382,9): error C2360: initialization of 'clients' is skipped by 'case' label
+      C:\Users\medul\source\repos\Project1\Project1\main.cpp(329,27):
+      see declaration of 'clients'
+  
+C:\Users\medul\source\repos\Project1\Project1\main.cpp(389,9): error C2360: initialization of 'frozenMemberships' is skipped by 'case' label
+      C:\Users\medul\source\repos\Project1\Project1\main.cpp(331,17):
+      see declaration of 'frozenMemberships'
+  
+C:\Users\medul\source\repos\Project1\Project1\main.cpp(389,9): error C2360: initialization of 'activeMemberships' is skipped by 'case' label
+      C:\Users\medul\source\repos\Project1\Project1\main.cpp(330,17):
+      see declaration of 'activeMemberships'
+  
+C:\Users\medul\source\repos\Project1\Project1\main.cpp(389,9): error C2360: initialization of 'clients' is skipped by 'case' label
+      C:\Users\medul\source\repos\Project1\Project1\main.cpp(329,27):
+      see declaration of 'clients'
+  
+C:\Users\medul\source\repos\Project1\Project1\main.cpp(394,9): error C2361: initialization of 'frozenMemberships' is skipped by 'default' label
+      C:\Users\medul\source\repos\Project1\Project1\main.cpp(331,17):
+      see declaration of 'frozenMemberships'
+  
+C:\Users\medul\source\repos\Project1\Project1\main.cpp(394,9): error C2361: initialization of 'activeMemberships' is skipped by 'default' label
+      C:\Users\medul\source\repos\Project1\Project1\main.cpp(330,17):
+      see declaration of 'activeMemberships'
+  
+C:\Users\medul\source\repos\Project1\Project1\main.cpp(394,9): error C2361: initialization of 'clients' is skipped by 'default' label
+      C:\Users\medul\source\repos\Project1\Project1\main.cpp(329,27):
+      see declaration of 'clients'
+  
